@@ -1,0 +1,11 @@
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\bin\Debug\net8.0\CRTBuisnessLogics.deps.json
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\bin\Debug\net8.0\CRTBuisnessLogics.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\bin\Debug\net8.0\CRTBuisnessLogics.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\CRTBuisnessLogics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\CRTBuisnessLogics.AssemblyInfoInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\CRTBuisnessLogics.AssemblyInfo.cs
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\CRTBuisnessLogics.csproj.CoreCompileInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\CRTBuisnessLogics.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\refint\CRTBuisnessLogics.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\CRTBuisnessLogics.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTBuisnessLogics\obj\Debug\net8.0\ref\CRTBuisnessLogics.dll

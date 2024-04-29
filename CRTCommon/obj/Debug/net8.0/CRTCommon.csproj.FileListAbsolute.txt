@@ -1,0 +1,11 @@
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\bin\Debug\net8.0\CRTCommon.deps.json
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\bin\Debug\net8.0\CRTCommon.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\bin\Debug\net8.0\CRTCommon.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\CRTCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\CRTCommon.AssemblyInfoInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\CRTCommon.AssemblyInfo.cs
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\CRTCommon.csproj.CoreCompileInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\CRTCommon.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\refint\CRTCommon.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\CRTCommon.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTCommon\obj\Debug\net8.0\ref\CRTCommon.dll

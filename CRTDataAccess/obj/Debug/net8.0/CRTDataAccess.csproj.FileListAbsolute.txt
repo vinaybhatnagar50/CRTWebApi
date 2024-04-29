@@ -1,0 +1,17 @@
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\bin\Debug\net8.0\CRTDataAccess.deps.json
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\bin\Debug\net8.0\CRTDataAccess.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\bin\Debug\net8.0\CRTDataAccess.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\bin\Debug\net8.0\CRTBuisnessLogics.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\bin\Debug\net8.0\CRTCommon.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\bin\Debug\net8.0\CRTBuisnessLogics.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\bin\Debug\net8.0\CRTCommon.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataAccess.csproj.AssemblyReference.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataAccess.AssemblyInfoInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataAccess.AssemblyInfo.cs
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataA.320C1EFB.Up2Date
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataAccess.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\refint\CRTDataAccess.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\CRTDataAccess.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRTDataAccess\obj\Debug\net8.0\ref\CRTDataAccess.dll

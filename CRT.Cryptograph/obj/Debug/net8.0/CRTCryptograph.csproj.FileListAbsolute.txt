@@ -1,0 +1,11 @@
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\bin\Debug\net8.0\CRTCryptograph.deps.json
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\bin\Debug\net8.0\CRTCryptograph.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\bin\Debug\net8.0\CRTCryptograph.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\CRTCryptograph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\CRTCryptograph.AssemblyInfoInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\CRTCryptograph.AssemblyInfo.cs
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\CRTCryptograph.csproj.CoreCompileInputs.cache
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\CRTCryptograph.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\refint\CRTCryptograph.dll
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\CRTCryptograph.pdb
+C:\Users\bhatnvi1\source\repos\crtwe\CRTWebApi\CRT.Cryptograph\obj\Debug\net8.0\ref\CRTCryptograph.dll

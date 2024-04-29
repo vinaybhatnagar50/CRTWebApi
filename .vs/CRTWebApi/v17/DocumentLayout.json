@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtdataaccess\\managers\\admin\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|solutionrelative:crtdataaccess\\managers\\admin\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F84D65-1D3E-4A78-B8F4-A1AD81925235}|CRTBuisnessLogics\\CRTBuisnessLogics.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtbuisnesslogics\\entity\\admin\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F84D65-1D3E-4A78-B8F4-A1AD81925235}|CRTBuisnessLogics\\CRTBuisnessLogics.csproj|solutionrelative:crtbuisnesslogics\\entity\\admin\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtdataaccess\\dto\\admin\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|solutionrelative:crtdataaccess\\dto\\admin\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtwebapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|solutionrelative:crtwebapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|solutionrelative:crtwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|solutionrelative:crtwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtdataaccess\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|solutionrelative:crtdataaccess\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtdataaccess\\managers\\base\\managerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|solutionrelative:crtdataaccess\\managers\\base\\managerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F84D65-1D3E-4A78-B8F4-A1AD81925235}|CRTBuisnessLogics\\CRTBuisnessLogics.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtbuisnesslogics\\managers\\admin\\icategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F84D65-1D3E-4A78-B8F4-A1AD81925235}|CRTBuisnessLogics\\CRTBuisnessLogics.csproj|solutionrelative:crtbuisnesslogics\\managers\\admin\\icategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtdataaccess\\crtdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0246422-7628-4BB3-B104-F0687B1CC1A5}|CRTDataAccess\\CRTDataAccess.csproj|solutionrelative:crtdataaccess\\crtdataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtwebapi\\crtwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F848C08-599F-4018-B267-D7EA5D208F9C}|CRTWebApi\\CRTWebApi.csproj|solutionrelative:crtwebapi\\crtwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96905686-77E0-4525-8ABF-AA16668CE2E7}|CRTCommon\\CRTCommon.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtcommon\\crtcommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96905686-77E0-4525-8ABF-AA16668CE2E7}|CRTCommon\\CRTCommon.csproj|solutionrelative:crtcommon\\crtcommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96905686-77E0-4525-8ABF-AA16668CE2E7}|CRTCommon\\CRTCommon.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crtcommon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96905686-77E0-4525-8ABF-AA16668CE2E7}|CRTCommon\\CRTCommon.csproj|solutionrelative:crtcommon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930C1569-EE95-46BD-B055-27FC001C76A9}|CRT.Cryptograph\\CRTCryptograph.csproj|c:\\users\\bhatnvi1\\source\\repos\\crtwe\\crtwebapi\\crt.cryptograph\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930C1569-EE95-46BD-B055-27FC001C76A9}|CRT.Cryptograph\\CRTCryptograph.csproj|solutionrelative:crt.cryptograph\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerBase.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\Managers\\Base\\ManagerBase.cs",
+              "RelativeDocumentMoniker": "CRTDataAccess\\Managers\\Base\\ManagerBase.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\Managers\\Base\\ManagerBase.cs",
+              "RelativeToolTip": "CRTDataAccess\\Managers\\Base\\ManagerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:52:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CRTWebApi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CRTWebApi\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:57:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CRTWebApi",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\CRTWebApi.csproj",
+              "RelativeDocumentMoniker": "CRTWebApi\\CRTWebApi.csproj",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\CRTWebApi.csproj",
+              "RelativeToolTip": "CRTWebApi\\CRTWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T09:53:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\Managers\\Admin\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "CRTDataAccess\\Managers\\Admin\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\Managers\\Admin\\CategoryManager.cs",
+              "RelativeToolTip": "CRTDataAccess\\Managers\\Admin\\CategoryManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAewCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:47:47.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTBuisnessLogics\\Entity\\Admin\\Category.cs",
+              "RelativeDocumentMoniker": "CRTBuisnessLogics\\Entity\\Admin\\Category.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTBuisnessLogics\\Entity\\Admin\\Category.cs",
+              "RelativeToolTip": "CRTBuisnessLogics\\Entity\\Admin\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:45:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTBuisnessLogics\\Managers\\Admin\\ICategoryManager.cs",
+              "RelativeDocumentMoniker": "CRTBuisnessLogics\\Managers\\Admin\\ICategoryManager.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTBuisnessLogics\\Managers\\Admin\\ICategoryManager.cs",
+              "RelativeToolTip": "CRTBuisnessLogics\\Managers\\Admin\\ICategoryManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:44:51.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CRTDataAccess",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\CRTDataAccess.csproj",
+              "RelativeDocumentMoniker": "CRTDataAccess\\CRTDataAccess.csproj",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\CRTDataAccess.csproj",
+              "RelativeToolTip": "CRTDataAccess\\CRTDataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T06:28:45.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CRTWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\appsettings.json",
+              "RelativeToolTip": "CRTWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T06:01:30.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CRTDataAccess\\DBContext\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "CRTDataAccess\\DBContext\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:22:13.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\DTO\\Admin\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "CRTDataAccess\\DTO\\Admin\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTDataAccess\\DTO\\Admin\\CategoryDTO.cs",
+              "RelativeToolTip": "CRTDataAccess\\DTO\\Admin\\CategoryDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:08:43.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "CRTWebApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTWebApi\\Startup.cs",
+              "RelativeToolTip": "CRTWebApi\\Startup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:03:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRTCommon.csproj",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTCommon\\CRTCommon.csproj",
+              "RelativeDocumentMoniker": "CRTCommon\\CRTCommon.csproj",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTCommon\\CRTCommon.csproj",
+              "RelativeToolTip": "CRTCommon\\CRTCommon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T07:51:26.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTCommon\\Class1.cs",
+              "RelativeDocumentMoniker": "CRTCommon\\Class1.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRTCommon\\Class1.cs",
+              "RelativeToolTip": "CRTCommon\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:50:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRT.Cryptograph\\Class1.cs",
+              "RelativeDocumentMoniker": "CRT.Cryptograph\\Class1.cs",
+              "ToolTip": "C:\\Users\\bhatnvi1\\source\\repos\\crtwe\\CRTWebApi\\CRT.Cryptograph\\Class1.cs",
+              "RelativeToolTip": "CRT.Cryptograph\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:49:29.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

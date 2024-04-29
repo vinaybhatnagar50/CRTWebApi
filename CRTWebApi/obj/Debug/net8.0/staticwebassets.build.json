@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XqZQuZmztVtEFlmkgTeuXyUW6HD3E7cgarLBbN4gYeE=",
+  "Source": "CRTWebApi",
+  "BasePath": "_content/CRTWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@CRTWebApi_HostAddress = http://localhost:5204
+
+GET {{CRTWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
